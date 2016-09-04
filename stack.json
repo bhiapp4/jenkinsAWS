@@ -15,6 +15,7 @@
       "Description": "The key pair that is allowed SSH access"
     }
   }, 
+  
   "Resources": {
     "EC2Instance": {
       "Type": "AWS::EC2::Instance",
