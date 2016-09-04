@@ -4,6 +4,7 @@ MAINTAINER Justin Menga <justin.menga@gmail.com>
 # Suppress apt installation warnings
 ENV DEBIAN_FRONTEND=noninteractive
 
+
 # Change to root user
 USER root
 

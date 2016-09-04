@@ -22,6 +22,8 @@ workflow-scm-step:latest
 workflow-step-api:latest
 workflow-support:latest
 workflow-multibranch:latest
+
+
 pipeline-stage-step:latest
 pipeline-stage-view:latest
 pipeline-input-step:latest
